@@ -1,5 +1,7 @@
 <?php
 
-echo "heelo kawan semua lurrrrr";
+echo "heelo kawan";
 
-echo "ini fitur ssh";
+echo "add fitur";
+
+echo "add fitur ssh";
