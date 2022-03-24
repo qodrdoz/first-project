@@ -2,4 +2,4 @@
 
 echo "heelo kawan semua lurrrrr";
 
-// echo "add ssh"; ini diganti ya
+echo "add ssh ya"; //sudah mas
